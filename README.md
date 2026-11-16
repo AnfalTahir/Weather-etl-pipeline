@@ -13,4 +13,3 @@ This project extracts real-time weather data (including temperature, humidity, w
 1. Install requirements: `pip install requests pandas pydantic sqlalchemy matplotlib seaborn`
 2. Run ETL pipeline: `python main.py`
 3. Run EDA analysis: `python eda.py`
-## This is our project README file
